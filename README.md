@@ -1,4 +1,4 @@
-# Landing Page for my programming portfolio
+# E.D.E. Restaurant Webpage
 # Wairimu Miano
 #### This is a webpage of a restaurant, 4th April 2021
 #### By Wairimu Miano
