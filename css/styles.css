@@ -28,6 +28,11 @@ img{
 p{
   font-size:120%;
   line-height:20px;
+  text-align:center;
+}
+.about p{
+  width:100%;
+  float:center;
 }
 table, td, th{
   text-align:center;
@@ -61,6 +66,8 @@ ul{
   font-style:italic;
   font-size:110%;
 }
-footer{
+body{
+  background-color:#ffebcd;
+  background-repeat:no-repeat;
 
 }
